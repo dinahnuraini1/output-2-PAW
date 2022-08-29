@@ -1,0 +1,15 @@
+* {
+	color: brown;
+	font-family: arial;
+}
+body {
+	background-color: pink;
+}
+p{
+	font-family: 14px;
+	padding: 5px;
+
+}
+h1{
+	text-align: center;
+}
